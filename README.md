@@ -49,19 +49,25 @@ Após instalar as dependências, execute o aplicativo com um dos seguintes coman
 ### Windows:
 
     ```bash
+    
     python app.py
+    
     ```
 
 ### Linux/macOS:
 
     ```bash
+    
     python3 app.py
+    
     ```
 
 ### Usando o Flet CLI:
 
     ```bash
+    
     flet run app.py
+    
     ```
 
 ## 🔧 Funcionalidades
@@ -102,8 +108,10 @@ Se o submódulo não for clonado automaticamente, basta executar o comando:
 
 ```bash
 git submodule update --init --recursive
-Se continuar tendo problemas, clone o repositório do back-end separadamente:
 ```
+
+Se continuar tendo problemas, clone o repositório do back-end separadamente:
+
 
 ```bash
 git clone https://github.com/leomatiazzz/Projeto-3---Rest-API.git
